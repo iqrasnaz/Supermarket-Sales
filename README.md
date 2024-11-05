@@ -34,7 +34,7 @@ Analyzed supermarket sales data to identify trends, top-performing products, pea
 
 ## **Tools & Skills:**
 
-Excel, MySQL, Tableau
-Skills: Filtering, Sorting, Aggregation, Data Cleaning, Data Analysis, Data Visualization
+* Excel, MySQL, Tableau
+* Skills: Filtering, Sorting, Aggregation, Data Cleaning, Data Analysis, Data Visualization
 
-Acknowledgment: Thank you to Kaggle for providing the data essential for this analysis.
+* Acknowledgment: Thank you to Kaggle for providing the data essential for this analysis.
