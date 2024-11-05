@@ -4,12 +4,12 @@
 
 Analyzed supermarket sales data to identify trends, top-performing products, peak sales periods, and key customer segments. This analysis provides actionable insights for optimizing inventory, promotions, and customer engagement.
 
-## **Objectives**
+## **Objectives:**
 
 * Determine high-revenue product lines and peak sales periods.
 * Identify effective sales strategies based on customer segments and location-specific preferences.
 
-**Data Summary:**
+## **Data Summary:**
 
 * Source: [Kaggle dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) (2019)
 * Size: 1,000 rows of transaction data and 17 features
@@ -36,5 +36,4 @@ Analyzed supermarket sales data to identify trends, top-performing products, pea
 
 * Excel, MySQL, Tableau
 * Skills: Filtering, Sorting, Aggregation, Data Cleaning, Data Analysis, Data Visualization
-
 * Acknowledgment: Thank you to Kaggle for providing the data essential for this analysis.
