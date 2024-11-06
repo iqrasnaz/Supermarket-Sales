@@ -9,6 +9,12 @@ Analyzed supermarket sales data to identify trends, top-performing products, pea
 * Determine high-revenue product lines and peak sales periods.
 * Identify effective sales strategies based on customer segments and location-specific preferences.
 
+## **Tools & Skills:**
+
+* Excel, MySQL, Tableau
+* Skills: Filtering, Sorting, Aggregation, Data Cleaning, Data Analysis, Data Visualization
+* Acknowledgment: Thank you to Kaggle for providing the data essential for this analysis.
+
 ## **Data Summary:**
 
 * Source: [Kaggle dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) (2019)
@@ -31,9 +37,3 @@ Analyzed supermarket sales data to identify trends, top-performing products, pea
 * Targeted Promotions: Gender-specific product promotions and incentives for non-members to join loyalty programs.
 * Inventory Management: Stock high-demand items (e.g., Food and Beverages, Electronic Accessories) during peak periods.
 * Localized Marketing: Tailor marketing by branch location and city, using city-centric campaigns for greater engagement.
-
-## **Tools & Skills:**
-
-* Excel, MySQL, Tableau
-* Skills: Filtering, Sorting, Aggregation, Data Cleaning, Data Analysis, Data Visualization
-* Acknowledgment: Thank you to Kaggle for providing the data essential for this analysis.
